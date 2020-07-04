@@ -14,7 +14,8 @@ struct ContentView: View {
         //HowToShowAMapView()
         //HowToCreateScrollingPagesOfContentUsingTabViewStyle()
         //HowToINtegrateSpriteKitUsingSpriteView()
-        HowToLetUsersSelectAColorWithColorPicker()
+        //HowToLetUsersSelectAColorWithColorPicker()
+        HowToLAzyLoadViewUsingLazyVStackAndLazyHStack()
     }
 }
 
