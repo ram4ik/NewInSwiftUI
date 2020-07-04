@@ -17,7 +17,8 @@ struct ContentView: View {
         //HowToLetUsersSelectAColorWithColorPicker()
         //HowToLAzyLoadViewUsingLazyVStackAndLazyHStack()
         //HowToSHowIndeterminateProgressUsingProgressView()
-        HowToContinueAnNSUserActivity()
+        //HowToContinueAnNSUserActivity()
+        HowToCreateADatePickerAndReadValuesFromIt()
     }
 }
 
