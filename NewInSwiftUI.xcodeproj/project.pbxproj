@@ -25,6 +25,7 @@
 		1DF1107B24B0E7440025E5C9 /* HowToHideAndRevealContentUsingDisclosureGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1107A24B0E7440025E5C9 /* HowToHideAndRevealContentUsingDisclosureGroup.swift */; };
 		1DF1107D24B0EA860025E5C9 /* WhatIsTheStateObjectPropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1107C24B0EA860025E5C9 /* WhatIsTheStateObjectPropertyWrapper.swift */; };
 		1DF1107F24B0EF6C0025E5C9 /* WhatIsTheSceneStoragePropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1107E24B0EF6C0025E5C9 /* WhatIsTheSceneStoragePropertyWrapper.swift */; };
+		1DF1108124B0F1720025E5C9 /* WhatISTheScaledMetricPropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1108024B0F1720025E5C9 /* WhatISTheScaledMetricPropertyWrapper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		1DF1107A24B0E7440025E5C9 /* HowToHideAndRevealContentUsingDisclosureGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToHideAndRevealContentUsingDisclosureGroup.swift; sourceTree = "<group>"; };
 		1DF1107C24B0EA860025E5C9 /* WhatIsTheStateObjectPropertyWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatIsTheStateObjectPropertyWrapper.swift; sourceTree = "<group>"; };
 		1DF1107E24B0EF6C0025E5C9 /* WhatIsTheSceneStoragePropertyWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatIsTheSceneStoragePropertyWrapper.swift; sourceTree = "<group>"; };
+		1DF1108024B0F1720025E5C9 /* WhatISTheScaledMetricPropertyWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatISTheScaledMetricPropertyWrapper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				1DF1107A24B0E7440025E5C9 /* HowToHideAndRevealContentUsingDisclosureGroup.swift */,
 				1DF1107C24B0EA860025E5C9 /* WhatIsTheStateObjectPropertyWrapper.swift */,
 				1DF1107E24B0EF6C0025E5C9 /* WhatIsTheSceneStoragePropertyWrapper.swift */,
+				1DF1108024B0F1720025E5C9 /* WhatISTheScaledMetricPropertyWrapper.swift */,
 			);
 			path = New;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				1DF1101924B08E3B0025E5C9 /* ContentView.swift in Sources */,
 				1DF1102C24B0918E0025E5C9 /* HowToShowAMapView.swift in Sources */,
 				1DF1105424B098CC0025E5C9 /* HowToINtegrateSpriteKitUsingSpriteView.swift in Sources */,
+				1DF1108124B0F1720025E5C9 /* WhatISTheScaledMetricPropertyWrapper.swift in Sources */,
 				1DF1102E24B0929E0025E5C9 /* HowToCreateScrollingPagesOfContentUsingTabViewStyle.swift in Sources */,
 				1DF1105C24B0AB6E0025E5C9 /* HowToContinueAnNSUserActivity.swift in Sources */,
 				1DF1107D24B0EA860025E5C9 /* WhatIsTheStateObjectPropertyWrapper.swift in Sources */,
