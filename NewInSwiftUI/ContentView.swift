@@ -12,7 +12,8 @@ struct ContentView: View {
         //Text("New in SwiftUI").padding()
         //HowToCreateExpandingLists()
         //HowToShowAMapView()
-        HowToCreateScrollingPagesOfContentUsingTabViewStyle()
+        //HowToCreateScrollingPagesOfContentUsingTabViewStyle()
+        HowToINtegrateSpriteKitUsingSpriteView()
     }
 }
 
