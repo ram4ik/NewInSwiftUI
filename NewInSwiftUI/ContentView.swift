@@ -20,7 +20,8 @@ struct ContentView: View {
         //HowToContinueAnNSUserActivity()
         //HowToCreateADatePickerAndReadValuesFromIt()
         //HowToHideAndRevealContentUsingDisclosureGroup()
-        WhatIsTheStateObjectPropertyWrapper()
+        //WhatIsTheStateObjectPropertyWrapper()
+        WhatIsTheSceneStoragePropertyWrapper()
     }
 }
 
