@@ -20,6 +20,7 @@
 		1DF1105624B09C370025E5C9 /* HowToLetUsersSelectAColorWithColorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1105524B09C370025E5C9 /* HowToLetUsersSelectAColorWithColorPicker.swift */; };
 		1DF1105824B09DD70025E5C9 /* HowToLAzyLoadViewUsingLazyVStackAndLazyHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1105724B09DD70025E5C9 /* HowToLAzyLoadViewUsingLazyVStackAndLazyHStack.swift */; };
 		1DF1105A24B0A0AC0025E5C9 /* HowToSHowIndeterminateProgressUsingProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1105924B0A0AC0025E5C9 /* HowToSHowIndeterminateProgressUsingProgressView.swift */; };
+		1DF1105C24B0AB6E0025E5C9 /* HowToContinueAnNSUserActivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1105B24B0AB6E0025E5C9 /* HowToContinueAnNSUserActivity.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		1DF1105524B09C370025E5C9 /* HowToLetUsersSelectAColorWithColorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToLetUsersSelectAColorWithColorPicker.swift; sourceTree = "<group>"; };
 		1DF1105724B09DD70025E5C9 /* HowToLAzyLoadViewUsingLazyVStackAndLazyHStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToLAzyLoadViewUsingLazyVStackAndLazyHStack.swift; sourceTree = "<group>"; };
 		1DF1105924B0A0AC0025E5C9 /* HowToSHowIndeterminateProgressUsingProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToSHowIndeterminateProgressUsingProgressView.swift; sourceTree = "<group>"; };
+		1DF1105B24B0AB6E0025E5C9 /* HowToContinueAnNSUserActivity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToContinueAnNSUserActivity.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				1DF1105524B09C370025E5C9 /* HowToLetUsersSelectAColorWithColorPicker.swift */,
 				1DF1105724B09DD70025E5C9 /* HowToLAzyLoadViewUsingLazyVStackAndLazyHStack.swift */,
 				1DF1105924B0A0AC0025E5C9 /* HowToSHowIndeterminateProgressUsingProgressView.swift */,
+				1DF1105B24B0AB6E0025E5C9 /* HowToContinueAnNSUserActivity.swift */,
 			);
 			path = New;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 				1DF1102C24B0918E0025E5C9 /* HowToShowAMapView.swift in Sources */,
 				1DF1105424B098CC0025E5C9 /* HowToINtegrateSpriteKitUsingSpriteView.swift in Sources */,
 				1DF1102E24B0929E0025E5C9 /* HowToCreateScrollingPagesOfContentUsingTabViewStyle.swift in Sources */,
+				1DF1105C24B0AB6E0025E5C9 /* HowToContinueAnNSUserActivity.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

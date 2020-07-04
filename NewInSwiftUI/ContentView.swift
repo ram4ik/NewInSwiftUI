@@ -16,7 +16,8 @@ struct ContentView: View {
         //HowToINtegrateSpriteKitUsingSpriteView()
         //HowToLetUsersSelectAColorWithColorPicker()
         //HowToLAzyLoadViewUsingLazyVStackAndLazyHStack()
-        HowToSHowIndeterminateProgressUsingProgressView()
+        //HowToSHowIndeterminateProgressUsingProgressView()
+        HowToContinueAnNSUserActivity()
     }
 }
 
