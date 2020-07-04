@@ -22,7 +22,8 @@ struct ContentView: View {
         //HowToHideAndRevealContentUsingDisclosureGroup()
         //WhatIsTheStateObjectPropertyWrapper()
         //WhatIsTheSceneStoragePropertyWrapper()
-        WhatISTheScaledMetricPropertyWrapper()
+        //WhatISTheScaledMetricPropertyWrapper()
+        WhatIsTheAppStoragePropertyWrapper()
     }
 }
 

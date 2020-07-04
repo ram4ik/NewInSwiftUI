@@ -26,6 +26,7 @@
 		1DF1107D24B0EA860025E5C9 /* WhatIsTheStateObjectPropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1107C24B0EA860025E5C9 /* WhatIsTheStateObjectPropertyWrapper.swift */; };
 		1DF1107F24B0EF6C0025E5C9 /* WhatIsTheSceneStoragePropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1107E24B0EF6C0025E5C9 /* WhatIsTheSceneStoragePropertyWrapper.swift */; };
 		1DF1108124B0F1720025E5C9 /* WhatISTheScaledMetricPropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1108024B0F1720025E5C9 /* WhatISTheScaledMetricPropertyWrapper.swift */; };
+		1DF1108324B0F8FE0025E5C9 /* WhatIsTheAppStoragePropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1108224B0F8FE0025E5C9 /* WhatIsTheAppStoragePropertyWrapper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		1DF1107C24B0EA860025E5C9 /* WhatIsTheStateObjectPropertyWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatIsTheStateObjectPropertyWrapper.swift; sourceTree = "<group>"; };
 		1DF1107E24B0EF6C0025E5C9 /* WhatIsTheSceneStoragePropertyWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatIsTheSceneStoragePropertyWrapper.swift; sourceTree = "<group>"; };
 		1DF1108024B0F1720025E5C9 /* WhatISTheScaledMetricPropertyWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatISTheScaledMetricPropertyWrapper.swift; sourceTree = "<group>"; };
+		1DF1108224B0F8FE0025E5C9 /* WhatIsTheAppStoragePropertyWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatIsTheAppStoragePropertyWrapper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				1DF1107C24B0EA860025E5C9 /* WhatIsTheStateObjectPropertyWrapper.swift */,
 				1DF1107E24B0EF6C0025E5C9 /* WhatIsTheSceneStoragePropertyWrapper.swift */,
 				1DF1108024B0F1720025E5C9 /* WhatISTheScaledMetricPropertyWrapper.swift */,
+				1DF1108224B0F8FE0025E5C9 /* WhatIsTheAppStoragePropertyWrapper.swift */,
 			);
 			path = New;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 				1DF1107F24B0EF6C0025E5C9 /* WhatIsTheSceneStoragePropertyWrapper.swift in Sources */,
 				1DF1102A24B08EB20025E5C9 /* HowToCreateExpandingLists.swift in Sources */,
 				1DF1101524B08E3B0025E5C9 /* AppDelegate.swift in Sources */,
+				1DF1108324B0F8FE0025E5C9 /* WhatIsTheAppStoragePropertyWrapper.swift in Sources */,
 				1DF1105824B09DD70025E5C9 /* HowToLAzyLoadViewUsingLazyVStackAndLazyHStack.swift in Sources */,
 				1DF1105624B09C370025E5C9 /* HowToLetUsersSelectAColorWithColorPicker.swift in Sources */,
 				1DF1107924B0E6070025E5C9 /* HowToCreateADatePickerAndReadValuesFromIt.swift in Sources */,
