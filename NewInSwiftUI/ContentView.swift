@@ -19,7 +19,8 @@ struct ContentView: View {
         //HowToSHowIndeterminateProgressUsingProgressView()
         //HowToContinueAnNSUserActivity()
         //HowToCreateADatePickerAndReadValuesFromIt()
-        HowToHideAndRevealContentUsingDisclosureGroup()
+        //HowToHideAndRevealContentUsingDisclosureGroup()
+        WhatIsTheStateObjectPropertyWrapper()
     }
 }
 

@@ -13,7 +13,11 @@ class User: ObservableObject {
 
 struct WhatIsTheStateObjectPropertyWrapper: View {
     
-    @ObservedObject var user = User()
+    /*
+     SwiftUI’s @StateObject property wrapper is designed to fill a very specific gap in state management: when you need to create a reference type inside one of your views and make sure it stays alive for use in that view and others you share it with.
+     */
+    
+    @StateObject var user = User()
     
     var body: some View {
         Text("Username: \(user.username)")
