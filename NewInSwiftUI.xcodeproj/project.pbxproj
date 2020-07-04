@@ -13,6 +13,7 @@
 		1DF1101B24B08E400025E5C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DF1101A24B08E400025E5C9 /* Assets.xcassets */; };
 		1DF1101E24B08E400025E5C9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DF1101D24B08E400025E5C9 /* Preview Assets.xcassets */; };
 		1DF1102124B08E400025E5C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DF1101F24B08E400025E5C9 /* LaunchScreen.storyboard */; };
+		1DF1102A24B08EB20025E5C9 /* HowToCreateExpandingLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DF1102924B08EB20025E5C9 /* HowToCreateExpandingLists.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1DF1101D24B08E400025E5C9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1DF1102024B08E400025E5C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1DF1102224B08E400025E5C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DF1102924B08EB20025E5C9 /* HowToCreateExpandingLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToCreateExpandingLists.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		1DF1101324B08E3B0025E5C9 /* NewInSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				1DF1102824B08E910025E5C9 /* New */,
 				1DF1101424B08E3B0025E5C9 /* AppDelegate.swift */,
 				1DF1101624B08E3B0025E5C9 /* SceneDelegate.swift */,
 				1DF1101824B08E3B0025E5C9 /* ContentView.swift */,
@@ -73,6 +76,14 @@
 				1DF1101D24B08E400025E5C9 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1DF1102824B08E910025E5C9 /* New */ = {
+			isa = PBXGroup;
+			children = (
+				1DF1102924B08EB20025E5C9 /* HowToCreateExpandingLists.swift */,
+			);
+			path = New;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -145,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DF1102A24B08EB20025E5C9 /* HowToCreateExpandingLists.swift in Sources */,
 				1DF1101524B08E3B0025E5C9 /* AppDelegate.swift in Sources */,
 				1DF1101724B08E3B0025E5C9 /* SceneDelegate.swift in Sources */,
 				1DF1101924B08E3B0025E5C9 /* ContentView.swift in Sources */,

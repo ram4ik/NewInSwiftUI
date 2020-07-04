@@ -9,7 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("New in SwiftUI").padding()
+        //Text("New in SwiftUI").padding()
+        HowToCreateExpandingLists()
     }
 }
 
