@@ -13,7 +13,8 @@ struct ContentView: View {
         //HowToCreateExpandingLists()
         //HowToShowAMapView()
         //HowToCreateScrollingPagesOfContentUsingTabViewStyle()
-        HowToINtegrateSpriteKitUsingSpriteView()
+        //HowToINtegrateSpriteKitUsingSpriteView()
+        HowToLetUsersSelectAColorWithColorPicker()
     }
 }
 
